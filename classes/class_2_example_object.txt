@@ -1,0 +1,13 @@
+Object: Chic Bar
+
+Attributes:
+airTemp = 72.0;
+musicArtist = 'ionnalee'
+serverPresent = false;
+locations = ['Boulder', 'Denver', 'Los Angeles']
+
+Methods:
+adjustThermostat: airTemp = 74.0;
+changeArtist: musicArtist = 'Polo and Pan';
+addStaff: serverPresent = true;
+openNewLocation: locations = ['Boulder', 'Denver', 'Los Angeles', 'Paris'];
