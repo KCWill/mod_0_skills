@@ -1,0 +1,13 @@
+Class: Entree
+
+Attributes:
+ingredients (array)
+cookingMethod (string)
+servingTemperature (float)
+isVegan (boolean)
+
+Methods:
+substituteMeatForTofu (Modifies ingredients and isVegan)
+letCool (Modifies servingTemperature)
+makeDishHealthy (Modifies cookingMethod and ingredients)
+sauteInButter (Modifies cookingMethod, isVegan, and ingredients)
