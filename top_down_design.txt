@@ -1,0 +1,53 @@
+Become Turing Student
+
+1 Apply to Turing
+    1.1 Make Turing account
+      1.1.1 Add name
+      1.1.2 Add phone number
+      1.1.3 Add email
+    1.2 Submit Resume
+      1.2.1 Write Resume
+        1.2.1.1 Add work history
+        1.2.1.2 Add education
+        1.2.1.3 Check for errors
+      1.2.2 Save as PDF
+      1.2.3 Upload to Turing website
+    1.3 Pass Logic Quiz
+      1.3.1 Log on to Turing account
+      1.3.2 Start logic quiz
+      1.3.3 Submit logic quiz
+      1.3.4 Wait for results
+    1.4 Complete Interview
+      1.4.1 Schedule Interview
+      1.4.2 Travel to Turing
+      1.4.3 Conduct Interview
+    1.5 Admittance
+      1.5.1 Wait for results of application
+      1.5.2 Accept offer
+2 Complete Onboarding Tasks
+    2.1 Make Down Payment
+      2.1.1 Link bank account
+      2.1.2 Pay $1,200
+    2.2 Talk with Darren
+      2.2.1 Schedule call
+      2.2.2 Conduct call at scheduled time
+    2.3 Make Full Payment
+      2.3.1 Pay $18,800
+3 Complete Pre-Work
+    3.1 Receive computer
+      3.1.1 Unpack computer
+    3.2 Prepare Computer
+      3.2.1 Use mod 0 website to add programs
+    3.3 Attend Class
+      3.3.1 Join zoom
+      3.3.2 Participate in breakout sessions
+      3.3.3 Take notes
+    3.4 Pass Capstone Assignment
+      3.4.1 Complete capstone assignments
+      3.4.2 Submit capstone assignments
+      3.4.3 Await results
+    3.5 Pass Technical Assessment
+      3.5.1 Practice for technical Assessment
+      3.5.2 Take technical assessment on Turing website
+      3.5.3 Submit technical Assessment
+      3.5.4 Await results
