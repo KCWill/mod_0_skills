@@ -1,0 +1,12 @@
+Object: Chicken Pasta
+
+ingredients = ['Chicken', 'Spaghetti', 'Tomatoes', 'Garlic'];
+cookingMethod = 'Pan Fry';
+servingTemperature = 130.0;
+isVegan = false;
+
+Methods:
+substituteMeatForTofu: ingredients = ['Tofu', 'Spaghetti', 'Tomatoes', 'Garlic']; isVegan = true;
+letCool: servingTemperature = 110.0;
+makeDishHealthy: cookingMethod = 'Grill';
+sauteInButter: ingredients = ['Chicken', 'Spaghetti', 'Tomatoes', 'Garlic', 'Butter']; cookingMethod = 'Saute'; isVegan = false;
