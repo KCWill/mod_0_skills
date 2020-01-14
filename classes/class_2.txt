@@ -1,0 +1,13 @@
+Class: Dining Atmosphere
+
+Attributes:
+airTemp (float)
+musicArtist (string)
+serverPresent (boolean)
+locations (array)
+
+Methods:
+adjustThermostat (Modifies airTemp)
+changeArtist (Modifies changeArtist)
+addStaff (Modifies serverPresent)
+openNewLocation (Modifies locations)
